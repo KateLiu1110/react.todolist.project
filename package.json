@@ -2,7 +2,7 @@
   "name": "ts-react-todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kateliu1110.github.io/ts-react-todolist",
+  "homepage": "https://kateliu1110.github.io/react.todolist.project/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
